@@ -9,6 +9,10 @@
 Não foi possivel verificar as portas sendo que o servidor não tinha conexão a internet para correr o nmap.
 ### Contas analisadas
 Não foram encontradas contas sem password.
+Foi analisado o ficheiro authorized_keys para confirmar a existência de chaves públicas, encontrando as seguintes:
+
+<img width="882" height="427" alt="image" src="https://github.com/user-attachments/assets/4471eb82-801d-40fc-942e-0241cfc7d037" />
+
 ## 2. Contenção
 
 Foi ativada a firewall UFW.
